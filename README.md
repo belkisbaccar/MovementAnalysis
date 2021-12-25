@@ -48,6 +48,6 @@ R
 
 ## Files & directories:
 * Input: csv files containing X, O and noise movement to be analysed
-* Output: csv files containing processed X, O and noise movement 
+* Output: csv files containing processed X, O and noise movement with extract_feature_long function and  extract_feature_large function
 * rsconnect: shiny app deployement files
 * app.R: shiny app code
