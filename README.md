@@ -1,12 +1,12 @@
 # MovementAnalysis
 
 # Main goal: 
-Create a shiny interface allowing to :
-  load a file produced with physics suite
-  visualize it (choice of sensors …)
-  process it (see details)
-  visualize the results of the processing
-  Export the results of the processing function as a csv files with two additional colums to store labels (X,O,Noise) and group name (Last names of the group members separated with _)
+*Create a shiny interface allowing to :
+*  load a file produced with physics suite
+*  visualize it (choice of sensors …)
+*  process it (see details)
+*  visualize the results of the processing
+*  Export the results of the processing function as a csv files with two additional colums to store labels (X,O,Noise) and group name (Last names of the group members separated with _)
 
 # Data:
 Install the android/ iOS physics toolbox suite app on your smartphone.
